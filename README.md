@@ -6,7 +6,7 @@ Currently working on my Elixir learning project, starting my Rust learning proje
 
 ## Tech Stack
 
-- **Haskell** (Servant, Yesod, Effectful)
+- **Haskell** (Servant, Yesod, Effectful) + **PureScript**/**Elm**
 - **Ruby** (Ruby on Rails)
 - **Elixir** (Phoenix)
 - **TypeScript/JavaScript** (React)
