@@ -1,16 +1,16 @@
-### Hi there 👋
+# Software Developer
 
-<!--
-**mauriciofierrom/mauriciofierrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy learning and writing software with a preference for functional programming, though I'm pragmatic about choosing the right tool for the job.
 
-Here are some ideas to get you started:
+Currently working on my Elixir learning project, starting my Rust learning project, and reading about distributed systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- **Haskell** (Servant, Yesod, Effectful)
+- **Ruby** (Ruby on Rails)
+- **Elixir** (Phoenix)
+- **TypeScript/JavaScript** (React)
+
+## Contact
+
+📧 mauriciofierrom@protonmail.com
