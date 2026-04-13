@@ -2,7 +2,7 @@
 
 I enjoy learning and writing software with a preference for functional programming, though I'm pragmatic about choosing the right tool for the job.
 
-Currently working on my Elixir learning project, starting my Rust learning project, and reading about distributed systems.
+Currently wrapping up my Elixir learning project, starting my Rust learning project, and reading about distributed systems.
 
 ## Tech Stack
 
